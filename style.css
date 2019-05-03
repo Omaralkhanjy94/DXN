@@ -1,0 +1,14 @@
+body{
+	direction: rtl;
+
+background-color:brown;
+color:white;
+	font-family: sans-serif, fantasy;
+	
+}
+#tap-nav{
+	direction: rtl;
+
+background-color:#886633;
+color:antiquewhite;
+}
